@@ -1,0 +1,7 @@
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SimpleMoneyTransfer\SimpleMoneyTransfer\bin\Release\SimpleMoneyTransfer.exe
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SimpleMoneyTransfer\SimpleMoneyTransfer\bin\Release\SimpleMoneyTransfer.pdb
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SimpleMoneyTransfer\SimpleMoneyTransfer\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SimpleMoneyTransfer\SimpleMoneyTransfer\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SimpleMoneyTransfer\SimpleMoneyTransfer\obj\x86\Release\SimpleMoneyTransfer.csproj.GenerateResource.Cache
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SimpleMoneyTransfer\SimpleMoneyTransfer\obj\x86\Release\SimpleMoneyTransfer.exe
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SimpleMoneyTransfer\SimpleMoneyTransfer\obj\x86\Release\SimpleMoneyTransfer.pdb
